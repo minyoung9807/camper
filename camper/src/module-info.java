@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author wjdrm
+ *
+ */
+module camper {
+}
